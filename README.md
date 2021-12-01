@@ -1,7 +1,10 @@
 # Turn Based Network Game
 
 
-https://user-images.githubusercontent.com/67333432/144281569-f810b945-92a0-4f84-a965-f51df9cab37b.mp4
+
+https://user-images.githubusercontent.com/67333432/144281709-7f6296ca-61a0-4bce-b464-fec8985dc4ab.mp4
+
+
 
 
 > **2D** / **1:1 턴제** / **포톤 네트워크**  게임 제작 중입니다.
