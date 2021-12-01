@@ -1,5 +1,9 @@
 # Turn Based Network Game
 
+
+https://user-images.githubusercontent.com/67333432/144281569-f810b945-92a0-4f84-a965-f51df9cab37b.mp4
+
+
 > **2D** / **1:1 턴제** / **포톤 네트워크**  게임 제작 중입니다.
 
 - 방장이 방을 만들고, 삼촌 플레이어가 됩니다.
